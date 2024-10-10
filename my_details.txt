@@ -1,0 +1,4 @@
+name: Jathin chetty
+father name: Jaya rao chetty
+registration number: 12221556
+specilization: computer science and engineering (data science)
